@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Blesson/.android/build-cache/ae4aca8d2921859d88676aa2e6196f0abc09b974/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Blesson/Desktop/Medpro/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_85b18771224bf0b89e510eadcb082ae21ce3ecc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Blesson/.android/build-cache/ae4aca8d2921859d88676aa2e6196f0abc09b974/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Blesson/Desktop/Medpro/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_607aeba17e1ee7cc82da27a9fe01d1f28c9861ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Blesson/.android/build-cache/5bf852af6981dae5a401a13ef1e538f5ddebabef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Blesson/Desktop/Medpro/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0bd93d16bbaf7b4a0955cbd8c2dd7b348aa6c795/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Blesson/.android/build-cache/8438de03a6c215a7e2f94bba195fa6e906b15bd2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Blesson/Desktop/Medpro/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_434a01ac2e99b275e41c10c6c779ab65f63ac3ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Blesson/Desktop/Medpro/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7cf9fa97f93afc8e221cdbf1a98322bc721d6cf5">
+        <dex dex="/Users/Blesson/Desktop/Medpro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_64e0c9180a845f83231555ff5a315eecf7982a9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Blesson/.android/build-cache/ea8e23247a0a0c139e907dec0381faf780b051b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Blesson/Desktop/Medpro/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af26c447be1f5e5afda0f3e0023f226160e70f62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Blesson/.android/build-cache/ed779c5c3d059247fb15e341b4751b36e5d0c6a7/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Blesson/Desktop/Medpro/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_db2eeb4fc3d466e8349c903db57a25b77b49a9e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Blesson/.android/build-cache/ea8e23247a0a0c139e907dec0381faf780b051b5/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Blesson/Desktop/Medpro/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_369df62f4d7e1fad24ac9c06c3520d002fd65b2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Blesson/.android/build-cache/ed779c5c3d059247fb15e341b4751b36e5d0c6a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Blesson/Desktop/Medpro/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f95c119388a9b0237b77966c7782b967e47b4258/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Blesson/Desktop/Medpro/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/Blesson/Desktop/Medpro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5b6bb7a039ba66d6edad7734ae4de49cd76d6bf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Blesson/.android/build-cache/7ace9ce77c1dd8186ee5e30e8fde456f5b3691f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Blesson/Desktop/Medpro/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f29431ea5ceb32b07484223b1297c1216994e63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Blesson/.android/build-cache/8438de03a6c215a7e2f94bba195fa6e906b15bd2/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Blesson/Desktop/Medpro/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f0f4f5d5268e539c2d0ca8e9bc8e00f0013873e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Blesson/.android/build-cache/2085fbd64b9ce66cf4ad6d661984f8226946f38a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Blesson/Desktop/Medpro/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_010171e4aa6219cd59f3eb90b54b37fed502af4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Blesson/.android/build-cache/ca477b96cd50f7f1c6cdef6070a2ed50cc8499e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Blesson/Desktop/Medpro/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_125c4f636b148ffae268db057352b947eb76ef4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Blesson/.android/build-cache/98f8edcb2dc5ccfc763c80e661d6b08fff977d00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Blesson/Desktop/Medpro/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b69ee20c78d59ed0d853ec7616bdfe92138ea53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Blesson/.android/build-cache/98f8edcb2dc5ccfc763c80e661d6b08fff977d00/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Blesson/Desktop/Medpro/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c377e6048e76331be5bc9c27d4510a765aa74124/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Blesson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Blesson/Desktop/Medpro/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_371c3d9aed170177bdadd42aafe917b75e78bffd/classes.dex" />
+    </item>
+
+</items>
